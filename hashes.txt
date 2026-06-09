@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Softly Crying In Sleep
+
+This log tracks the cryptographic history and versioning for the song **Softly Crying In Sleep** (softly-crying-in-sleep).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-09T17:52:19.984794 | `v1` | `34460903f0e6cffb94e723e5abb3a1cb005366bd03dfa67ed2b64c128c45a0f4` | `3d0c94c421555718c0b706e93c1c591de4552ce5dfa8bbe2aa7e659ba67a8ef3` | `2026-06-09_softly-crying-in-sleep-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
