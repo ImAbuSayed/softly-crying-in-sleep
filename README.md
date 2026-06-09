@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/softly-crying-in-sleep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Softly Crying In Sleep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-crying-in-sleep/) |
+| **Get License** | [Commercial Licensing for Softly Crying In Sleep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-crying-in-sleep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tears are falling like the midnight rain
+> But I am here to wash away the pain
+> Pull you closer in the candlelight
+> Hold your body through the restless night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
