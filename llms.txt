@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/softly-crying-in-sleep/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Softly Crying In Sleep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-crying-in-sleep/) |
+| **Get License** | [Music Rights & Licensing for Softly Crying In Sleep](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/softly-crying-in-sleep/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2886)
 
 ---
 
